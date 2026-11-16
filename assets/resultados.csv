@@ -1,0 +1,10 @@
+cenario,arvore,tempo_insercao_ms,comparacoes_insercao,rotacoes_insercao,altura,comparacoes_por_busca,maximo_comparacoes_busca,tempo_busca_ms,tempo_remocao_ms,comparacoes_remocao,rotacoes_remocao,altura_apos_remocao
+crescente,BST,28.782,499500,0,1000,500.5,1000,26.3407,11.2014,191917,0,500
+crescente,AVL,2.5663,8977,990,10,8.987,10,0.5057,1.2018,4780,92,10
+crescente,Rubro-Negra,1.4946,14481,983,17,9.406,17,0.5024,0.4833,4318,106,11
+decrescente,BST,28.8077,499500,0,1000,500.5,1000,26.2259,10.7592,183833,0,500
+decrescente,AVL,3.0933,8977,990,10,8.987,10,0.6015,1.3902,4781,85,10
+decrescente,Rubro-Negra,1.6563,14481,983,17,9.406,17,0.6225,0.5881,4332,102,10
+embaralhada,BST,0.9237,11151,0,21,12.151,21,0.8122,0.475,5709,0,19
+embaralhada,AVL,3.005,8701,689,12,9.179,12,0.6479,1.4454,4835,197,11
+embaralhada,Rubro-Negra,1.271,8812,577,12,9.265,12,0.656,0.5659,4382,214,11
